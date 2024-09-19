@@ -31,3 +31,6 @@ note : pastiin dapet internet, password jangan sampe lupa.
 
 how to allow ssh in debian 8:
 nano /etc/ssh/sshd_config
+
+Custom Domain Host:
+C:\Windows\System32\drivers\etc
