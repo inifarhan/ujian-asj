@@ -34,3 +34,6 @@ nano /etc/ssh/sshd_config
 
 Custom Domain Host:
 C:\Windows\System32\drivers\etc
+
+Config DNS Record manual:
+nano /home/{namapembeli}/conf/dns/domain.tld.db
